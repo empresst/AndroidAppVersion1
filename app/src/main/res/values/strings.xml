@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TryMamma</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">TryMamma</string>
+    <string name="nav_header_subtitle">TryMamma@trym.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_settingsd">Settingsd</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Diets</string>
+    <string name="menu_slideshow">WorkOuts</string>
+    <string name="menu_plan">Plan</string>
+    <string name="button">Button</string>
+    <string name="notification_activity">NotificationView</string>
+</resources>
