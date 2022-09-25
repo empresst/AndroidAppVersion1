@@ -14,4 +14,7 @@
     <string name="menu_plan">Plan</string>
     <string name="button">Button</string>
     <string name="notification_activity">NotificationView</string>
+    <string name="mail_fab">Mail Button</string>
+    <string name="reminder">Reminder</string>
+    <string name="app_banner">app banner</string>
 </resources>
