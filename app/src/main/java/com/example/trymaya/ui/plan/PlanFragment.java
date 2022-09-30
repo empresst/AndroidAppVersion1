@@ -39,8 +39,8 @@ public class PlanFragment extends Fragment {
     int ElapsedTime;
     long tot;
 
-    public View onCreateView(@NonNull LayoutInflater inflater,
-                             ViewGroup container, Bundle savedInstanceState) {
+    public View onCreateView(@NonNull LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
         PlanViewModel planViewModel =
                 new ViewModelProvider(this).get(PlanViewModel.class);
 
